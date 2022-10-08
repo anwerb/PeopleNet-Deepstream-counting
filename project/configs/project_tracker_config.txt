@@ -1,0 +1,7 @@
+[tracker]
+enable=1
+tracker-width=1920			
+tracker-height=1080
+gpu-id=0
+ll-lib-file=/opt/nvidia/deepstream/deepstream/lib/libnvds_mot_klt.so
+enable-batch-process=1
