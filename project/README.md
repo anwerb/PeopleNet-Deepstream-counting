@@ -1,6 +1,6 @@
-make sure to clone this repository in /opt/nvidia/deepstream/deepstream/sources with direct access to project Folder (remove PeopleNet-Deepstream-counting)
+make sure to clone this repository in /opt/nvidia/deepstream/deepstream/sources with direct access to project folder (remove PeopleNet-Deepstream-counting folder)
 
-make a new Folder in project directory :
+make a new folder in project directory :
 /opt/nvidia/deepstream/deepstream/sources/project$ sudo mkdir data
 
 you can download any mp4 / h264 file in there and use it for inference ( don't forget to change the default 'cctv.mp4' file name in configs/project_base_config_peoplenet.txt )
